@@ -7,7 +7,7 @@
 
 ## 1. Introduction
 
-Welcome to **Dr. Lock** ("App", "we", "us", or "our"). This Privacy Policy explains how **Shenzhen Lanxin Zhilian Technology Co., Ltd.** (深圳市兰芯智联科技有限公司), a company registered in Shenzhen, Guangdong, China, collects, uses, shares, and protects your personal information when you use the Dr. Lock mobile application.
+Welcome to **Dr. Lock** ("App", "we", "us", or "our"). This Privacy Policy explains how **Shenzhen Lanxin Zhilian Technology Co., Ltd.** , a company registered in Shenzhen, Guangdong, China, collects, uses, shares, and protects your personal information when you use the Dr. Lock mobile application.
 
 By using the App, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree to this policy, please do not use the App.
 
