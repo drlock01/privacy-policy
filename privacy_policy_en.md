@@ -232,7 +232,6 @@ The "Last Updated" date at the top of this policy reflects the most recent revis
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
 **Shenzhen Lanxin Zhilian Technology Co., Ltd.**
-(深圳市兰芯智联科技有限公司)
 
 - **Email:** drlock@skychip.top
 
